@@ -458,7 +458,9 @@ body {
 }
 
 .eco--sec--title--white h1,
-.eco--sec--title--white span {
+.eco--sec--title--white span,
+.eco--sec--title--white h3,
+.eco--sec--title--white h4 {
   color: #ffffff;
 }
 
